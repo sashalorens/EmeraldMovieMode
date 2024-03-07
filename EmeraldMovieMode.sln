@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmeraldMovieMode", "EmeraldMovieMode.csproj", "{2B6E4403-7BBD-4D0F-BEC0-C388F127271A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EmeraldMovieModeSetup", "..\EmeraldMovieModeSetup\EmeraldMovieModeSetup.vdproj", "{36184BC3-1EF1-401F-A8AD-CAEB4699217B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6E4403-7BBD-4D0F-BEC0-C388F127271A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6E4403-7BBD-4D0F-BEC0-C388F127271A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6E4403-7BBD-4D0F-BEC0-C388F127271A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6E4403-7BBD-4D0F-BEC0-C388F127271A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36184BC3-1EF1-401F-A8AD-CAEB4699217B}.Debug|Any CPU.ActiveCfg = Debug
+		{36184BC3-1EF1-401F-A8AD-CAEB4699217B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {095A37DC-C272-4AB5-BA0E-17B3306B0C76}
+	EndGlobalSection
+EndGlobal
